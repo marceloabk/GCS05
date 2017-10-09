@@ -1,0 +1,3 @@
+/Users/H4D3S/Desktop/atividade5-cmake/run/CMakeFiles/rebuild_cache.dir
+/Users/H4D3S/Desktop/atividade5-cmake/run/CMakeFiles/edit_cache.dir
+/Users/H4D3S/Desktop/atividade5-cmake/run/CMakeFiles/Main.dir

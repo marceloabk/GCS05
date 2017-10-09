@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/pokedex.hpp
+
+../includes/pokemon.hpp
+
+/Users/H4D3S/Desktop/atividade5-cmake/sources/main.cpp
+cstdio
+-
+iostream
+-
+pokemon.hpp
+/Users/H4D3S/Desktop/atividade5-cmake/sources/pokemon.hpp
+pokedex.hpp
+/Users/H4D3S/Desktop/atividade5-cmake/sources/pokedex.hpp
+version.hpp
+/Users/H4D3S/Desktop/atividade5-cmake/sources/version.hpp
+
+/Users/H4D3S/Desktop/atividade5-cmake/sources/pokedex.cpp
+pokedex.hpp
+/Users/H4D3S/Desktop/atividade5-cmake/sources/pokedex.hpp
+iostream
+-
+cstdio
+-
+
+/Users/H4D3S/Desktop/atividade5-cmake/sources/pokemon.cpp
+stdio.h
+-
+pokemon.hpp
+/Users/H4D3S/Desktop/atividade5-cmake/sources/pokemon.hpp
+
+includes/version.hpp
+
